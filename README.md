@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wagurii
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert
 ===============================================================================================================================
 
-I'm an 2nd year I.T Students
+I'm 2nd year I.T Students
 <br>
 ### Skills
 
