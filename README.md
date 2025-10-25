@@ -24,6 +24,8 @@ I'm a 3rd year Information Technology (I.T) student.
 
 ## 📊 GitHub Stats
 
-![Robert’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=chessdotdev&show_icons=true&theme=radical)  
+## 📊 GitHub Stats
+
+![Robert’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=chessdotdev&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chessdotdev&layout=compact&theme=radical)
