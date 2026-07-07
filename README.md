@@ -33,7 +33,7 @@ I'm a self-taught full-stack developer who enjoys building projects and learning
 
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Akali03&show_icons=true&theme=radical" />
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Akali03&theme=radical" />
+<!-- <img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Akali03&theme=radical" /> -->
 
 <!--
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Akali03&layout=compact&theme=radical" />
